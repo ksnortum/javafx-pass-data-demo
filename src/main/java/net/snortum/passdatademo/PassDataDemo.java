@@ -14,7 +14,6 @@ import net.snortum.passdatademo.controller.ReceiveNameController;
 import net.snortum.passdatademo.model.DataHolder;
 
 public class PassDataDemo extends Application {
-	
 	private NameController nameController= new NameController();
 	private ReceiveNameController receiveNameController = new ReceiveNameController();
 	private DataHolder holder = new DataHolder();
