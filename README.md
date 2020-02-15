@@ -21,6 +21,8 @@ To execute, type
 
     mvn javafx:run
     
+Tested on Ubuntu 19.10 and Windows 10 1909
+    
 ## What to notice
 Launch the app, enter a name into the text field, and press the Ok button.  The name appears in a label above the separator.  This would be unremarkable except that the area above and below the separator are controlled by different controllers.
 
